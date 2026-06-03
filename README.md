@@ -14,7 +14,7 @@ To separate computational workflows from long-term heavy data storage, this proj
 
 ## Usage instructions
 
-To replicate the analysis, please use RStudio, open the file “commentary_analysis_code” and execute the code. Importing the dataset file manually will not be necessary as the code automatically retrieves it from OSF (this will require an internet connection).
+To replicate the analysis, please use RStudio, open the file “commentary_analysis_code.R” and execute the code. Importing the dataset file manually will not be necessary as the code automatically retrieves it from OSF (this will require an internet connection).
 
 In order for the scripts to run smoothly, the R packages “osfr” and “lme4” need to be installed; if they are not already, the code automatically prompts the installation procedure. Please note that the analysis was run on R version 4.2.3, so replicating it on a different version may result in incompatibility issues.
 
