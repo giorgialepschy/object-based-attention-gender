@@ -17,7 +17,7 @@ if (!require("osfr", character.only = TRUE)) {
 # Download file -----------------------------------------------------------
 
 # Retrieve the file information using its 5-character ID
-file_info <- osf_retrieve_file("ysbxc") # DA INSERIRE IL NOSTRO!!
+file_info <- osf_retrieve_file("v7der") 
 
 # Download the file
 file_downloaded <- osf_download(file_info, path = tempdir(), conflicts = "overwrite")
