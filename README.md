@@ -10,7 +10,7 @@ The primary focus of this project is end-to-end reproducibility as a core techni
 To separate computational workflows from long-term heavy data storage, this project is split across two platforms:
 
 - GitHub (Code, Logs, and Reports): [GitHub Repository](https://github.com/giorgialepschy/object-based-attention-gender)
-- OSF Storage (Data & Preregistration): [OSF Project](https://osf.io/s6rgu/overview)
+- OSF Storage (Data & Preregistration): [OSF Project](https://doi.org/10.17605/OSF.IO/S6RGU)
 
 ## Usage instructions
 
@@ -22,7 +22,7 @@ In order for the scripts to run smoothly, the R packages “osfr” and “lme4�
 
 The original dataset was collected by Eloisa Valenza and Giulia Calignano.
 
-- Original study reference: [OSF Original Study](https://osf.io/jqz3p/overview)
+- Original study reference: [OSF Original Study](https://doi.org/10.17605/OSF.IO/JQZ3P)
 - Data integrity: The raw data file has not been altered or tampered with in any way. Any preprocessing steps are fully transparent and scripted within our pipeline.
 
 
